@@ -16,7 +16,7 @@ Has some beauty on iOS as the layout doesn't move like when using the native pic
 Not currently tested on WebDirect
 
 ## Hacking the design
-The files are open and unlocked, instructions about styleing are in the read-me<br />
+The files are open and unlocked, instructions about styling are in the read-me<br />
 The rounded corners are a trick which will not work so well on a different colour header, I leave you to figure it out and amend or remove as required
 
 ## Issues
