@@ -12,6 +12,8 @@ The CardDatePicker file can be hosted so it can be available to all you solution
 
 ## Running
 See example scripts in Card-Cal file
+Has some beauty on iOS as the layout doesn't move like when using the native picker
+Not currently tested on WebDirect
 
 ## Issues
 Please use the issues tab to report any issues you may find
