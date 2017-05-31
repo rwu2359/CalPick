@@ -15,6 +15,10 @@ See example scripts in Card-Cal file<br />
 Has some beauty on iOS as the layout doesn't move like when using the native picker<br />
 Not currently tested on WebDirect
 
+## Hacking the design
+The files are open and unlocked, instructions about styleing are in the read-me<br />
+The rounded corners are a trick which will not work so well on a different colour header, I leave you to figure it out and amend or remove as required
+
 ## Issues
 Please use the issues tab to report any issues you may find
 
