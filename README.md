@@ -16,5 +16,5 @@ See example scripts in Card-Cal file
 ## Issues
 Please use the issues tab to report any issues you may find
 
-### version history
+#### version history
 1.0 2017-05-31, initial release
