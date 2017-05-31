@@ -17,7 +17,8 @@ Not currently tested on WebDirect
 
 ## Hacking the design
 The files are open and unlocked, instructions about styling are in the read-me<br />
-The rounded corners are a trick which will not work so well on a different colour header, I leave you to figure it out and amend or remove as required
+The rounded corners are a trick which will not work so well on a different colour header, I leave you to figure it out and amend or remove as required<br />
+I recommend using this to get used to the new Layout Objects inspector panel
 
 ## Issues
 Please use the issues tab to report any issues you may find
