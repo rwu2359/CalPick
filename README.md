@@ -19,4 +19,5 @@ Not currently tested on WebDirect
 Please use the issues tab to report any issues you may find
 
 #### version history
-1.0 2017-05-31, initial release
+1.0 2017-05-31, initial release<br />
+1.1 2017-05-31, amended method of passing slected date, thanks to @ToddGeist, fixes #1
