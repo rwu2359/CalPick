@@ -1,6 +1,7 @@
 # CalPick
 Card Window date picker for FileMaker solutions<br />
-![Screenshot](https://cloud.githubusercontent.com/assets/779522/26669512/12c81756-46a6-11e7-9609-f17b6736fb33.jpg)
+<br />
+![Screenshot](https://cloud.githubusercontent.com/assets/779522/26669627/7ce53272-46a6-11e7-94f5-17ffc5582235.jpg)
 
 ## Required
 FileMaker Pro 16 or above
