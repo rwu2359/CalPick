@@ -7,7 +7,7 @@ Card Window date picker for FileMaker solutions - range picker coming soon!<br /
 FileMaker Pro 16 or above
 
 ## Installation
-Download both files, open Card-Cal and follow read-me instructions
+Download both FMP12 files, open Card-Cal and look at the read-me script
 
 ## Hosting
 The CardDatePicker file can be hosted so it can be available to all you solutions if required, make sure you edit scripts as outlined in the read-me
