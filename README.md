@@ -1,5 +1,6 @@
 # CalPick
 Card Window date picker for FileMaker solutions - range picker coming soon!<br />
+If you like it, go and vote in the [FileMaker community..](https://community.filemaker.com/docs/DOC-8288)<br />
 <br />
 ![Screenshot](https://cloud.githubusercontent.com/assets/779522/26669627/7ce53272-46a6-11e7-94f5-17ffc5582235.jpg)
 
