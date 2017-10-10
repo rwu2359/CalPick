@@ -7,7 +7,7 @@ FileMaker Pro 16 or above
 
 ## Installation
 Download both FMP12 files, open Card-Cal_2 and look at the read-me script
-The Card-Cal_2 has been cloned, and should run a script op open to populate a single record which should bind the dates to your system. Thanks to @JasonYoung for reminder on that one.
+The Card-Cal_2 has been cloned, and should run a script On Open to populate a single record which should bind the dates to your system. Thanks to @JasonYoung for reminder on that one.
 
 ## Hosting
 The CardDatePickerRange file can be hosted so it can be available to all you solutions if required, make sure you edit scripts as outlined in the read-me
