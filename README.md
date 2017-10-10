@@ -14,8 +14,7 @@ The CardDatePickerRange file can be hosted so it can be available to all you sol
 
 ## Running
 See example scripts in Card-Cal_2 file<br />
-Has some beauty on iOS as the layout doesn't move like when using the native picker<br />
-Not available on WebDirect!
+Has some beauty on iOS as the layout doesn't move like when using the native picker. Not available on WebDirect!<br />
 There are some extra JSON parameters for the range version which will go straight to the end date panel once a start date is selected, and one to auto-close on selection of the end date. Read. The. Read-me.
 
 ## Hacking the design
