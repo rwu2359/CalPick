@@ -26,7 +26,7 @@ I recommend using this to get used to the new Layout Objects inspector panel
 Please use the issues tab to report any issues you may find
 
 #### version history
-1.0 2017-05-31, initial release<br />
-1.1 2017-05-31, amended method of passing selected date, thanks to @ToddGeist, fixes #1<br />
+1.0 2017-05-31 - initial release<br />
+1.1 2017-05-31 - amended method of passing selected date, thanks to @ToddGeist, fixes #1<br />
 1.2 2017-09-01 - fixed script name type, fixes #4<br />
 1.3 2017-10-09 - more explicit handling for cancel and picker errors, first release of range picker
