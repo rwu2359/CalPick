@@ -31,4 +31,3 @@ Please use the issues tab to report any issues you may find
 1.2 2017-09-01 - fixed script name type, fixes #4<br />
 1.3 2017-10-09 - more explicit handling for cancel and picker errors, first release of range picker
 1.4 2017-12-05 - added parameter to use in display mode only
-
