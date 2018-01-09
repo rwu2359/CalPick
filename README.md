@@ -1,6 +1,6 @@
 # CalPick Range version
 Card Window date-range picker for FileMaker solutions<br />
-![Screenshot](https://user-images.githubusercontent.com/779522/31489427-836e321a-af38-11e7-846a-abdb2f2cfc57.jpg)
+![Screenshot](https://user-images.githubusercontent.com/779522/34734526-f42394f2-f563-11e7-8eaa-3bb7429e29b6.jpg)
 
 ## Required
 FileMaker Pro 16 or above
