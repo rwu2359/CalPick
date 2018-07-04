@@ -13,7 +13,7 @@ The Card-Cal_2 has been cloned, and should run a script On Open to populate a si
 The CardDatePickerRange file can be hosted so it can be available to all you solutions if required, make sure you edit scripts as outlined in the read-me
 
 ## Running
-See example scripts in Card-Cal_2 file<br />
+See example scripts in Card-Cal_2 file, bottom button triggers refreshObject parameter<br />
 Has some beauty on iOS as the layout doesn't move like when using the native picker. Not available on WebDirect!<br />
 There are some extra JSON parameters for the range version which will go straight to the end date panel once a start date is selected, and one to auto-close on selection of the end date. Read. The. Read-me.
 
